@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive (kies uit responsive óf surface plane)
  
 </details>
 
