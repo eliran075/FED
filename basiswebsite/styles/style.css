@@ -1,0 +1,103 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+button, summary {
+	cursor: pointer;
+}
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+}
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+/* jouw code */
+
+body {
+  color:var(--color-text);
+  background-color:var(--color-background);
+  margin: 0;
+}
+	
+.motd{
+	background-color: white;
+	height: 5vh;
+	display: flex;
+	align-items: center;
+}
+
+.motd,p{
+padding-left: 1em;
+}
+
+
+nav{
+	display: flex;
+	height: 12.5vh;
+	background-color: black;
+}
+nav, img{
+	display: flex;
+	padding-left: 1em;
+}
+
+
+
+/* code van sanne die ik heb aangepast */
+
+
+ul {
+	width: 95%;
+	margin:auto;
+	padding: 0;
+	list-style:none;
+	display:flex;
+	gap:1em;
+	overflow:hidden;
+ 	scroll-snap-type: x mandatory;
+	scroll-behavior:smooth;
+}
+	
+
+li {
+	width:auto;
+	scroll-snap-align: center;
+}
+
+a {
+	display:inline-block;
+	width:1em;
+	height:1em;
+	border-radius:50%;
+	
+	background-color:black;
+	
+	overflow:hidden;
+	color:transparent;
+	user-select:none;
+	align-content: center; 
+
+}
+
+.carousel{
+justify-items: center;
+}
