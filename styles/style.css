@@ -36,8 +36,7 @@ body {
   color:var(--color-text);
   background-color:var(--color-background);
   margin: 0;
-    font-family: 'Roboto', sans-serif;
-
+  font-family: 'Roboto', sans-serif;
 
 }
 	
@@ -52,6 +51,10 @@ body {
 padding-left: 2em;
 }
 
+h1 {
+	font-size: 2em;
+	text-align: center;
+}
 
 nav {
 	display: flex;
@@ -135,4 +138,32 @@ ul {
 
 .personaltrainer {
 	width: 100%;
+}
+
+figure {
+	display: grid;
+	grid-template-columns: 4em 15em 4em;
+	grid-template-rows: 20em 2em 2em;
+}
+
+figcaption {
+	  grid-column-start: 1;
+	  grid-column-end:span 2;
+
+}
+
+.fotoweekaanbieding {
+	width: 100%;
+}
+
+.aanboditem {
+	width: 100%;
+}
+
+.hartje {
+	width: 2em	;
+}
+
+.cart {
+	width: 70%;
 }
