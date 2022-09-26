@@ -35,15 +35,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://xxlnutrition.com/nl/
+  Nieuwe site: https://www.singleestatecoffee.nl/ > https://xxlnutrition.com/nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/XXL1.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/SSC.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/XXL2.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/SSC2.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -58,28 +58,32 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Hier korte omschrijving:
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Veel onderdelen op de site waren erg onduidelijk voor de screenreader. Zoals links naar bepaalde items werd alleen opgelezen als 'koppeling' waardoor het als       gebruiker niet echt duidelijk word waar die koppeling je heen brengt.
+  
+  Hier een omschrijving van hoe het opgelost kan worden:
+  alttext of ontzichtbare text bij de link of img
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Hier korte omschrijving:
+  
+  De website is prima te bedienen met alleen een toetsenbord of muis. je kan het items aan je winkelmandje toevoegen en het bestel process afronden.
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Hier korte omschrijving:
+  
+  Het maakt het proces wat lastiger en het duurt wat langer maar je kan gewoon hetzelfde doen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Hier korte omschrijving:
+  
+  In de meeste gevallen is de site nog prima leesbaar maar wanneer het te wazig word valt de tekst een beetje weg en kan je het lastig zien.
+  
+  Hier een omschrijving van hoe het opgelost kan worden:
+  
+  Een fontslider waarmee de gebruiker de groote van het tekst kan vergroten/verkleinen.
+  
 </details>
 
 
@@ -90,13 +94,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/BreakdownSchetsHomepage4.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ### Over ons pagina: 
+  <img src="readme-images/BreakdownSchetsOveronspage.png" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+ 
 
 </details>
 
