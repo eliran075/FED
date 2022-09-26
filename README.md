@@ -97,7 +97,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/BreakdownSchetsHomepage4.png" width="375px" alt="breakdown van de hele pagina">
 
   ### Over ons pagina: 
-  <img src="readme-images/BreakdownSchetsOveronspage.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdownschetsabonnementpage.png" width="375px" alt="breakdown van een dynamisch deel">
 
  
 
