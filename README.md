@@ -157,7 +157,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   <img src="readme-images/footer.JPG" width="375px">
   
-  Hoe zet ik deze 2 losse img naast elkaar in het midden (flexbox) (div gebruiken als container om in te flexe?)
+  Hoe zet ik deze 2 losse img naast elkaar in het midden (flexbox) (section/div gebruiken als container om in te flexe?)
   
   
   <img src="readme-images/vraag.JPG" width="375px">
