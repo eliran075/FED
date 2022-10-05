@@ -150,11 +150,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
   
   De header was nog wel lastig te maken het was een hoop gepuzzel in het begin maar ik heb het gelukkig werkend gekregen.
+  
   <img src="readme-images/header.JPG" width="375px">
   
   De footer maken ging zeer flot alleen wist ik niet of er een betere ccs selector was voor een element dat specifiek voor een ander element komt, zo had ik een h4 die   ik styling wou geven die voor een UL stond. ik heb maar nth of type gebruikt. (::before?)
+  
   <img src="readme-images/footer.JPG" width="375px">
-
+  
+  Hoe zet ik deze 2 losse img naast elkaar in het midden (flexbox) (div gebruiken als container om in te flexe?)
+  
+  
+  <img src="readme-images/vraag.JPG" width="375px">
 
   ### Agenda voor meeting
   samen met je groepje opstellen
