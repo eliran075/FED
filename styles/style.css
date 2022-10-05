@@ -19,7 +19,7 @@ button, summary {
 :root {
 	/* startje */
 	--color-text:#111;
-	--color-background: white;
+	--color-background: #fef2ec;
 }
 
 
@@ -36,6 +36,11 @@ body {
   color:var(--color-text);
   background-color:var(--color-background);
   margin: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 	
+
+
+main img {
+  width: 100%;
+}
