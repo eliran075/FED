@@ -1,23 +1,27 @@
 header {
-    margin: 0;
-    width: 100%;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     top: 0;
+    margin: 0;
+    width: 100%;
 }
 
 header p {
     display: flex;
+    justify-content: center;
+    text-align: center;
     width: 100%;
     margin:0;
     padding: 0.75em 3.7em;
-    text-align: center;
+    
     background-color: black;
     color: white;
     font-weight: bold;
     font-size: 0.75em;
 }
+
+
 
 nav {
     display: grid;
@@ -27,7 +31,6 @@ nav {
     padding: 1em 0;
     width: 100%;
     position: relative;
-
 }
 
 nav button {
@@ -36,21 +39,20 @@ nav button {
     padding: 0;
     margin: 0;
     display: flex;
-   position: relative;
-   left: 2em;
+    position: relative;
+    left: 1.5em;
     
 }
 
 nav button img {
    width: 1.5em;
    margin: 0;
- 
-
 }
 
 nav img {
     margin: auto;
 }
+
 
 
 header nav ul:first-of-type{
@@ -72,7 +74,7 @@ header nav ul:first-of-type.toonMenu {
 }
 
 header nav ul:first-of-type li {
-    padding: 0.75em;
+    padding: 1em;
 }
 
 header nav ul:first-of-type li a{
@@ -83,24 +85,19 @@ header nav ul:first-of-type li a{
 
 
 header nav ul:last-of-type{
-   display: flex;
-   position: relative;
-   right: 1em;
+    display: flex;
+    position: relative;
+    right: 1em;
+    align-items: center;
     gap: 0.5em;
-    
 }
 
 header nav ul:last-of-type li {   
     list-style-type: none;
     align-items: center;
-    display: grid;
+    padding: 0;
 }
 
 header nav ul:last-of-type li a img {   
     width: 1.35em;
-        
 }
-
-
-
-

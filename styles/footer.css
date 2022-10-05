@@ -1,0 +1,52 @@
+footer {
+    width: 80%;
+    margin: auto;
+}
+
+footer h3 {
+    font-size: 1.75em;
+    font-weight: lighter;
+}
+
+footer h4 {
+    font-size: .75em;
+}
+
+footer p {
+    font-size: 0.9em;
+    color: grey;
+    font-weight: bold;
+}
+
+footer h4:nth-of-type(3){
+    margin: 4em 0 0 0;
+}
+
+footer h4:nth-of-type(4){
+    margin: 4em 0 0 0;
+}   
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    padding: .5em 0;
+}
+
+footer ul li a {
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: black;
+}
+
+footer p:last-of-type{
+    text-align: center;
+    padding: 2em 0;
+}
+
+footer img{
+    width: 1em;
+}
