@@ -164,11 +164,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-| Maeve      | Nienke          | Thijs    | Eliran       |
-  | ---            | ---                | ---          | ---              |
-  | Welke css selector moet je gebruiken?| Moet je een secion beginnen bij een h1?             | wanneer gebruik je welke html elementen?    | Moet je bij een page waar je de taal kan switchen een aparte (vertaalde) page maken of gebruik je javascript om de text te veranderen?    |
-  | is er een logische indeling voor css? |  |  |  |
-  | mag je id's gebruiken bij img?           |               |          |              |
+| Maeve      | Nienke          | Thijs    | Eliran       | Tess |
+  | ---            | ---                | ---          | ---              | ---      |        
+  | Welke css selector moet je gebruiken?| Moet je een secion beginnen bij een h1?             | wanneer gebruik je welke html elementen?    | Moet je bij een page waar je de taal kan switchen een aparte (vertaalde) page maken of gebruik je javascript om de text te veranderen?    |  hoe centreer je een background img |
+  | is er een logische indeling voor css? |  |  |  | | 
+  | mag je id's gebruiken bij img?           |               |          |              || 
 
 
   ### Verslag van meeting
