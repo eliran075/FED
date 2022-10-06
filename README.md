@@ -235,10 +235,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Maeve      | student 2          | student 3    | student 4        |
+  | Maeve      | Nienke          | Thijs    | Eliran       |
   | ---            | ---                | ---          | ---              |
-  | Welke css selector moet je gebruiken?| en dit             | en ik dit    | en dan ik dat    |
-  | is er een logische indeling voor css? | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Welke css selector moet je gebruiken?| Moet je een secion beginnen bij een h1?             | wanneer gebruik je welke html elementen?    | Moet je bij een page waar je de taal kan switchen een aparte (vertaalde) page maken of gebruik je javascript om de text te veranderen?    |
+  | is er een logische indeling voor css? |  | nog een punt | dit wil ik zeker |
   | mag je id's gebruiken bij img?           | ...                | ...          | ...              |
 
 
