@@ -235,11 +235,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Maeve      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Welke css selector moet je gebruiken?| en dit             | en ik dit    | en dan ik dat    |
+  | is er een logische indeling voor css? | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | mag je id's gebruiken bij img?           | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
