@@ -1,0 +1,174 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    top: 0;
+    margin: 0;
+    width: 100%;
+}
+
+header p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin:0;
+    padding: 0.75em 3.7em;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: .65em;
+    letter-spacing: 0.15em;
+}
+
+
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    margin: 0;
+    padding: 1em 0;
+    width: 100%;
+    position: relative;
+}
+
+nav button {
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    position: relative;
+    left: 1.5em;
+    
+}
+
+nav button img {
+   width: 1.5em;
+   margin: 0;
+}
+
+nav img {
+    margin: auto;
+}
+
+
+
+header nav ul:first-of-type{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    list-style:none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: white;
+    transition:transform .3s;
+    transform:translatex(-100%);
+    z-index: 10;
+}
+
+header nav ul:first-of-type.toonMenu {
+    transform:translatex(0);
+}
+
+header nav ul:first-of-type li {
+    padding: 1em;
+}
+
+header nav ul:first-of-type li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+header nav ul:last-of-type{
+    display: flex;
+    position: relative;
+    right: 1em;
+    align-items: center;
+    gap: 0.5em;
+    justify-content: end
+}
+
+header nav ul:last-of-type li {   
+    list-style-type: none;
+    align-items: center;
+    padding: 0;
+}
+
+header nav ul:last-of-type li a img {   
+    width: 1.35em;
+}
+
+
+
+
+
+
+footer {
+    width: 80%;
+    margin: auto;
+}
+
+footer h3 {
+    font-size: 1.75em;
+    font-weight: lighter;
+}
+
+footer h4 {
+    font-size: .75em;
+}
+
+footer p {
+    font-size: 0.9em;
+    color: grey;
+    font-weight: bold;
+    padding-bottom: .5em;
+}
+
+footer h4:nth-of-type(3){
+    margin: 4em 0 0 0;
+}
+
+footer h4:nth-of-type(4){
+    margin: 4em 0 0 0;
+}   
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    padding: .5em 0;
+}
+
+footer ul li a {
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: black;
+}
+
+footer p:last-of-type{
+    text-align: center;
+    font-weight: lighter;
+    font-size: .7em;
+    padding: 2em 0;
+}
+
+footer img{
+    width: 1.2em;
+}
+
+footer section {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    padding-bottom: 2em;
+}
+
