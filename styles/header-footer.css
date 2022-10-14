@@ -67,6 +67,7 @@ header nav ul:first-of-type{
     background-color: white;
     transition:transform .3s;
     transform:translatex(-100%);
+    z-index: 10;
 }
 
 header nav ul:first-of-type.toonMenu {
