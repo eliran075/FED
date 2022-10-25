@@ -18,8 +18,10 @@ button, summary {
 /*********************/
 :root {
 	/* startje */
-	--color-text: rgb(84, 84, 84);
+	--color-text: #656a70;
 	--color-background: #fef2ec;
+  --color-dark: black;
+  --color-light: white;
 }
 
 
@@ -68,6 +70,11 @@ h2 {
   font-weight: lighter;
   padding: 0 0 .5em;
   margin: 0;
+  color: var(--color-dark);
+}
+
+em{
+  font-style: normal;
 }
 
 
@@ -101,8 +108,8 @@ main section:nth-of-type(1) ul li a {
   top: 100%;
   padding: 2.5em;
   gap: .5em;
-  background-color: #333;
-  color: white;
+  background-color: var(--color-dark);
+  color: var(--color-light);
   text-decoration: none;
   font-weight:bold;
   font-size: small;  
@@ -118,7 +125,7 @@ main section:nth-of-type(1) li a img{
 
 
 
-main  section:nth-of-type(2) p:nth-child(1) {
+main section:nth-of-type(2) p:nth-child(1) {
   letter-spacing: 0.15em;
 }
 
@@ -132,7 +139,7 @@ figure {
 figure a {
   font-size: 1.25em;
   text-decoration: none;
-  color: black;
+  color: var(--color-dark);
 }
 
 figure p {
@@ -143,12 +150,100 @@ figure p {
 }
 
 figure p:first-of-type {
-  color: rgb(138, 138, 138);
+  color: var(--color-text);
 }
 
-em {
-    font-style: normal;
+main section:nth-of-type(2) em {
     display: block;
     padding-bottom: 1em;
-
 }
+
+/* percentage sectie */
+main section:nth-of-type(3) {
+  text-align: center;
+}
+
+main section:nth-of-type(3) h3{
+  font-weight: lighter;
+  font-size: 1.5em;
+}
+
+main section:nth-of-type(3) em{
+  font-size: 3em;
+  font-weight: bold;
+  display: block;
+}
+
+main section:nth-of-type(3) p{
+  padding: 2em 0;
+  letter-spacing: .15em;
+  font-size: .8em;
+  font-weight: 600;
+}
+
+main section:nth-of-type(3) a {
+  color: var(--color-light);
+  background-color: var(--color-text);
+  text-decoration: none;
+  padding: .7em 1em;
+  margin-top: 3em;
+  display: block;
+}
+
+/* abonnementen sectie */
+
+main section:nth-of-type(4) h2 {
+  text-align: center;
+}
+
+main section:nth-of-type(4) p {
+  text-align: center;
+  line-height: 1.5em;
+}
+
+main section:nth-of-type(4) ul li{
+ text-align: center;
+ padding: 0.3em;
+}
+
+main section:nth-of-type(4) ul li:first-of-type{
+ font-weight: bold;
+}
+
+main section:nth-of-type(4) a{
+ color:var(--color-light);
+ background-color: var(--color-dark);
+ text-decoration: none;
+ padding: 1em 2em;
+ font-size: .8em;
+}
+
+main section:nth-of-type(4) img{
+  display: block;
+  margin-top: 1.5em;
+}
+
+
+/* bezoek / collage section  */
+
+main section:nth-of-type(5) {
+  text-align: center;
+}
+
+main section:nth-of-type(5) a{
+  color: var(--color-dark);
+  text-decoration: none;
+  border: .1em solid var(--color-dark);
+  padding: 1.5em;
+  display: block;
+  
+ }
+
+ main section:nth-of-type(6) {
+  padding: 0;
+  margin: 0;
+
+  /*waarom werkt dit*/
+  font-size: 0;
+   
+ }
