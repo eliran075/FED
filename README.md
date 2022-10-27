@@ -229,16 +229,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  
+  het ging verassend goed, ik had eerst het probleem dat een Ahref niet mee werkte het overlapte met andere elementen (oplossing was dus inline-block)
+  wel begrijp niet waarom fontsize invloed heeft op tusseruimtes bij img's
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Maeve      | Nienke          | Thijs    | Eliran       |
-  | ---            | ---                | ---          | ---              |
-  | Welke css selector moet je gebruiken?| Moet je een secion beginnen bij een h1?             | wanneer gebruik je welke html elementen?    | Moet je bij een page waar je de taal kan switchen een aparte (vertaalde) page maken of gebruik je javascript om de text te veranderen?    |
-  | is er een logische indeling voor css? |  |  |  |
-  | mag je id's gebruiken bij img?           |               |          |              |
+  | Maeve      | Nienke         | Thijs      | Eliran       |  Tess |
+  | ---        | ---            | ---        | ---          | ---   |
+  |            |                |            | waarom heeft fontsize invloed op spacing tussen img | hoe gebruik je grid om element posities tegeven, hoe maak ik een carousel    |
+  |            |                |            |              |       |
+  |            |                |            |              |       |
 
 
   ### Verslag van meeting
