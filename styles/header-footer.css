@@ -143,6 +143,13 @@ header nav ul:last-of-type{
     justify-content: end
 }
 
+@media  (min-width: 950px) {
+    header nav ul:last-of-type{
+        padding-right: 1em;
+        gap: 0;
+    }
+}
+
 header nav ul:last-of-type li {   
     list-style-type: none;
     align-items: center;
