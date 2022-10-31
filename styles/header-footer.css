@@ -21,6 +21,11 @@ header p {
     letter-spacing: 0.15em;
 }
 
+@media  (min-width: 950px) {
+    header p {
+        padding: 1em 4em;
+    }
+}
 
 
 nav {
@@ -33,6 +38,14 @@ nav {
     position: relative;
 }
 
+@media  (min-width: 950px) {
+    nav {
+        grid-template-columns: 1fr 4fr 1fr;
+        padding: .5em 0 2em;
+    }
+}
+
+
 nav button {
     border: none;
     background: none;
@@ -41,8 +54,14 @@ nav button {
     display: flex;
     position: relative;
     left: 1.5em;
-    
 }
+
+@media  (min-width: 950px) {
+    nav button {
+        display: none;
+    }
+}
+
 
 nav button img {
    width: 1.5em;
@@ -53,6 +72,13 @@ nav img {
     margin: auto;
 }
 
+
+@media  (min-width: 950px) {
+    nav img {
+        order: -1;
+        margin-left: 2em;
+    }
+}
 
 
 header nav ul:first-of-type{
@@ -70,6 +96,19 @@ header nav ul:first-of-type{
     z-index: 10;
 }
 
+@media  (min-width: 950px) {
+    header nav ul:first-of-type{
+        position: static;
+        display: flex;
+        flex-direction: row;
+        top: 0%;
+        background-color: transparent;
+        transform:translatex(0);
+        align-items: center;
+    }
+}
+
+
 header nav ul:first-of-type.toonMenu {
     transform:translatex(0);
 }
@@ -81,6 +120,16 @@ header nav ul:first-of-type li {
 header nav ul:first-of-type li a{
     text-decoration: none;
     color: var(--color-black);
+}
+
+@media  (min-width: 950px) {
+    header nav ul:first-of-type li:last-of-type a {
+        text-decoration: none;
+        color: var(--color-light);
+        background-color: var(--color-text);
+        padding: .4em;
+        display: inline-block;
+    }
 }
 
 
