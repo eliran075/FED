@@ -18,7 +18,7 @@ button, summary {
 /*********************/
 :root {
 	/* startje */
-	--color-text: #656a70;
+	--color-text: #5b5b5c;
 	--color-background: #fef2ec;
   --color-dark: black;
   --color-light: white;
@@ -55,6 +55,12 @@ body {
 main {
   width: 80%;
   margin: auto;
+}
+
+@media  (min-width: 950px) {
+        main {
+      width: 85%;
+  }
 }
 
 section {
