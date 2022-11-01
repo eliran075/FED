@@ -54,6 +54,7 @@ nav button {
     display: flex;
     position: relative;
     left: 1.5em;
+    order:-1;
 }
 
 @media  (min-width: 950px) {
@@ -68,17 +69,10 @@ nav button img {
    margin: 0;
 }
 
-nav img {
+nav a  {
     margin: auto;
 }
 
-
-@media  (min-width: 950px) {
-    nav img {
-        order: -1;
-        margin-left: 2em;
-    }
-}
 
 
 header nav ul:first-of-type{
@@ -140,13 +134,12 @@ header nav ul:last-of-type{
     right: 1em;
     align-items: center;
     gap: 0.5em;
-    justify-content: end
+    justify-content: end;
 }
 
 @media  (min-width: 950px) {
     header nav ul:last-of-type{
         padding-right: 1em;
-        gap: 0;
     }
 }
 

@@ -1,0 +1,108 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+button, summary {
+	cursor: pointer;
+}
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text: #5b5b5c;
+	--color-background: #fef2ec;
+  --color-dark: black;
+  --color-light: white;
+}
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+/* jouw code */
+
+body {
+  color:var(--color-text);
+  background-color:var(--color-background);
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* https://www.a11yproject.com/posts/how-to-hide-content/ */
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+main {
+  width: 80%;
+  margin: auto;
+}
+
+@media  (min-width: 950px) {
+        main {
+      width: 85%;
+  }
+}
+
+@media  (min-width: 110px) {
+        main {
+      width: 90%;
+  }
+}
+
+section {
+  padding-bottom: 8em;
+}
+
+section section{
+  padding-bottom: 0;
+}
+
+main img {
+  width: 100%;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: lighter;
+  padding: 0 0 .5em;
+  margin: 0;
+  color: var(--color-dark);
+}
+
+@media  (min-width: 950px) {
+    main section:first-of-type {
+      display: grid;
+      grid-template-columns: 1.5fr 2fr;  
+    }
+}
+
+@media  (min-width: 950px) {
+    main section:first-of-type article:nth-of-type(1) {
+      padding-right: 3em;
+    }
+}
+
+main img {
+  width: 100%;
+}
+
