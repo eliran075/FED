@@ -192,30 +192,35 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  verrasend genoeg was het opzich zelf al redelijk toegankelijk in alle gevallen kon de gebruiker zijn taak afronden.
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  Hij gaat over alle elementen zonder dingen over te slaan. de items waren een beetje onduidelijk
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  de gebruiker kon prima navigeren op de site met alleen een toetsenbord of muis.
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
-  #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  #### Motoriek (shocks, elastiekjes)  
+  elastiekjes: er waren geen uitgebreide taken op mijn site waardoor de gebruiker zonder al te veel moeite kon navigeren
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  De testen gingen grotendeels zonder enkele problemen, de gerbuiker had niet al te veel last van zijn beperkingen.
+  kleurenblind: er is genoeg contrast dus de content is duidelijk genoeg.
+  staarbril: er zijn niet teveel elementen tegelijkertijd op het scherm waardoor het zichtbaar blijft.
+  wazige zicht: text kan soms wat dun zijn waardoor het lastiger is te lezen.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  een fontchanger/slider waarmee je de groote/dikte van het font kan aanpassen.
+  
 </details>
 
 
