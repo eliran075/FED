@@ -1,3 +1,12 @@
+:root {
+--color-focus: #51a7e8;
+}
+
+*:focus{
+    outline: var(--color-text) solid .1em;
+    border-radius: .5em;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -73,8 +82,6 @@ nav a  {
     margin: auto;
 }
 
-
-
 header nav ul:first-of-type{
     position: absolute;
     top: 100%;
@@ -90,6 +97,13 @@ header nav ul:first-of-type{
     z-index: 10;
 }
 
+header nav ul:first-of-type li:hover {
+	color: var(--color-light);
+    background-color: var(--color-text);
+    transition: .3s ease-in-out;
+    transform: scale(1.05);
+}
+
 @media  (min-width: 950px) {
     header nav ul:first-of-type{
         position: static;
@@ -102,7 +116,6 @@ header nav ul:first-of-type{
     }
 }
 
-
 header nav ul:first-of-type.toonMenu {
     transform:translatex(0);
 }
@@ -114,18 +127,21 @@ header nav ul:first-of-type li {
 header nav ul:first-of-type li a{
     text-decoration: none;
     color: var(--color-black);
+    white-space: nowrap;
 }
 
 @media  (min-width: 950px) {
     header nav ul:first-of-type li:last-of-type a {
         text-decoration: none;
         color: var(--color-light);
-        background-color: var(--color-text);
+        background-color: var(--color-dark);
         padding: .4em;
-        display: inline-block;
     }
 }
 
+header nav ul:first-of-type li:last-of-type:hover {
+    background-color: transparent;
+}
 
 
 header nav ul:last-of-type{
@@ -155,9 +171,6 @@ header nav ul:last-of-type li a img {
 
 
 
-
-
-
 footer {
     padding-top: 5em;
     width: 80%;
@@ -174,7 +187,8 @@ footer h4 {
     font-size: .75em;
 }
 
-footer p {
+footer p, footer a {
+    text-decoration: none;
     font-size: 0.9em;
     color: var(--color-text);
     font-weight: bold;
@@ -203,6 +217,10 @@ footer ul li a {
     font-size: 0.9em;
     font-weight: 500;
     color: var(--color-black);
+}
+
+footer ul li a:hover {
+    border-bottom: .1em solid var(--color-text);
 }
 
 footer section:nth-child(4){
