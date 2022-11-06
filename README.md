@@ -56,12 +56,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  De website is nog niet heel toegankelijk en vooral voor gerbuikers met een screenreader.
+  
+  De website is nog niet heel toegankelijk en vooral niet voor gebruikers met een screenreader, geen context bij links/koppelingen en hij skipt over sommige links.
 
   #### Screenreader
   Veel onderdelen op de site waren erg onduidelijk voor de screenreader. Zoals links naar bepaalde items werd opgelezen als alleen 'koppeling' waardoor het als           gebruiker niet echt duidelijk word waar die koppeling je heen brengt.
   
   Hier een omschrijving van hoe het opgelost kan worden:
+  
   alttext of ontzichtbare text bij de link of img
 
   #### Muis en Toetsenbord 
@@ -74,6 +76,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   In de meeste gevallen is de site nog prima leesbaar maar wanneer het te wazig word valt de tekst een beetje weg en kan je het lastig zien.
   
   Hier een omschrijving van hoe het opgelost kan worden:
+  
   Een fontslider waarmee de gebruiker de groote van het tekst kan vergroten/verkleinen.
   
 </details>
