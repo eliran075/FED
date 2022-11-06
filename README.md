@@ -254,17 +254,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/mains1.JPG" width="375px" alt="uitomst header">
+  <img src="readme-images/mains3.JPG" width="375px" alt="uitomst items">
+  <img src="readme-images/mains2.JPG" width="375px" alt="uitomst footer">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb veel geleerd over display grid een flex en wat je ermee kan doen. Grid vind ik dan nog het tofst vooral hoe simpel en met weinig regels code je iets al erg     goed responsive kan maken
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/navgrid.JPG" width="375px" alt="header">
+  <img src="readme-images/footergrid.JPG" width="375px" alt="footer">
+
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
