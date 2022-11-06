@@ -1,11 +1,10 @@
-:root {
---color-focus: #51a7e8;
-}
 
 *:focus{
     outline: var(--color-text) solid .1em;
     border-radius: .5em;
+    -webkit-tap-highlight-color: transparent;
 }
+
 
 header {
     display: flex;
