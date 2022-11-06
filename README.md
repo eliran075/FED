@@ -266,7 +266,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <img src="readme-images/navgrid.JPG" width="375px" alt="header">
   <img src="readme-images/footergrid.JPG" width="375px" alt="footer">
-   <img src="readme-images/langereselector1.JPG" width="375px" alt="code">
+   <img src="readme-images/langereselector3.JPG" width="375px" alt="code">
    <img src="readme-images/langereselector2.JPG" width="375px" alt="mediacode">
 
 
