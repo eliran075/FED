@@ -197,8 +197,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Motoriek (shocks, elastiekjes)  
   elastiekjes: er waren geen uitgebreide taken op mijn site waardoor de gebruiker zonder al te veel moeite kon navigeren ook waren de knoppen groot genoeg om te         klikken
-  
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   De testen gingen grotendeels zonder enkele problemen, de gerbuiker had niet veel last van zijn beperkingen.
