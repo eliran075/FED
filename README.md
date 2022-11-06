@@ -105,27 +105,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  We hadden het over grid en positionering binnen het grid waardoor ik het nu beter begrijp. ook heb ik van website kunnen wisselen.
 
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  Deze week was ik nog niet ingedeeld voor een groepje
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Eliran      | 
+  | ---         | 
+  |kan ik van website wisselen|
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - betere grip op grid
+  - van website gewisseld
+  - lid van nieuw groepje
 
 </details>
 
@@ -139,8 +135,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-  
   De header was nog wel lastig te maken het was een hoop gepuzzel in het begin maar ik heb het gelukkig werkend gekregen.
   
   <img src="readme-images/header.JPG" width="375px">
@@ -150,7 +144,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/footer.JPG" width="375px">
   
   section gebruiken of heb je coole css? (:before)
-  
   
   <img src="readme-images/vraag.JPG" width="375px">
 
@@ -166,10 +159,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - een ingbouwde translator/taalswitcher maken kost wel wat werk
+
+
 
 </details>
 
@@ -180,34 +172,35 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
-  <summary>uitwerken na test in 8e werkgroep</summary>
+  <summary> verrasend genoeg was het opzich zelf al redelijk toegankelijk in alle gevallen kon de gebruiker zijn taak afronden.p</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-  verrasend genoeg was het opzich zelf al redelijk toegankelijk in alle gevallen kon de gebruiker zijn taak afronden.
+  - De screenreader is al een verbetering op de orginele website
+  - De gebruiker kan prima navigeren met alleen muis of toetsenbord (nummer en email nog niet)
+  - De gerbuiker kon de content begrijpen/lezen met visuele beperking
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-  Hij gaat over alle elementen zonder dingen over te slaan. de items waren een beetje onduidelijk
+  Hij gaat over alle elementen zonder dingen over te slaan. de items waren een beetje onduidelijk. de links leest ie ook volledig op dus niet dat je alleen het woord     koppeling hoort maar ook waar die koppeling je heen brengt 
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  alt text bij item img
 
   #### Muis en Toetsenbord 
-  de gebruiker kon prima navigeren op de site met alleen een toetsenbord of muis.
+  de gebruiker kon prima navigeren op de site met alleen een toetsenbord of muis. Alleen viel het de gebruiker op dat ie niet kon tabben naar het telefoonnummer of       email
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Maak het interactief <a>
 
   #### Motoriek (shocks, elastiekjes)  
-  elastiekjes: er waren geen uitgebreide taken op mijn site waardoor de gebruiker zonder al te veel moeite kon navigeren
+  elastiekjes: er waren geen uitgebreide taken op mijn site waardoor de gebruiker zonder al te veel moeite kon navigeren ook waren de knoppen groot genoeg om te         klikken
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
-
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  De testen gingen grotendeels zonder enkele problemen, de gerbuiker had niet al te veel last van zijn beperkingen.
+  De testen gingen grotendeels zonder enkele problemen, de gerbuiker had niet veel last van zijn beperkingen.
   kleurenblind: er is genoeg contrast dus de content is duidelijk genoeg.
-  staarbril: er zijn niet teveel elementen tegelijkertijd op het scherm waardoor het zichtbaar blijft.
+  staarbril: er zijn niet teveel elementen tegelijkertijd op het scherm waardoor het zichtbaar blijft en niet te choatisch.
   wazige zicht: text kan soms wat dun zijn waardoor het lastiger is te lezen.
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
@@ -225,10 +218,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-  
+
   het ging verassend goed, ik had eerst het probleem dat een Ahref niet mee werkte het overlapte met andere elementen (oplossing was dus inline-block)
-  wel begrijp niet waarom fontsize invloed heeft op tusseruimtes bij img's
+  wel begrijp niet waarom fontsize invloed heeft op tusseruimtes bij img's.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -242,11 +234,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  
+  - door wat tips heb ik mijn nav wat mooier gemaakt (white space: wrap/nowrap)
+  - toestemming gekregen voor div (onder bepaalde condities)
+  - ik heb wat van andere geleerd (object fit)
 
 </details>
 
