@@ -254,13 +254,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/mains1.JPG" width="375px" alt="uitomst header">
-  <img src="readme-images/mains3.JPG" width="375px" alt="uitomst items">
-  <img src="readme-images/mains2.JPG" width="375px" alt="uitomst footer">
+  Hierbij de homepage! 
+  
+  - <img src="readme-images/mains1.JPG" width="375px" alt="uitomst header">
+  - <img src="readme-images/mains3.JPG" width="375px" alt="uitomst items">
+  - <img src="readme-images/mains2.JPG" width="375px" alt="uitomst footer">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Ik heb veel geleerd over display grid een flex en wat je ermee kan doen. Grid vind ik dan nog het tofst vooral hoe simpel en met weinig regels code je iets al erg     goed responsive kan maken
+  Ik heb veel geleerd over display grid een flex en wat je ermee kan doen. Grid vind ik dan nog het tofst vooral hoe simpel en met weinig regels code je iets al erg     goed responsive kan maken. Ook begrijp ik wat meer van de selectoren en hoe je bijv daarmee de childs van elemeten een styling kunt geven. En mischien een van de belangrijkste dingen dat ik geleerd heb is dat het zonder 500 div'jes ook kan en dat het vaak makkelijker gaat door semantische elementen te gebruiken. (vroeger maakte ik wel eens een nav/ul uit divjes)
 
   <img src="readme-images/navgrid.JPG" width="375px" alt="header">
   <img src="readme-images/footergrid.JPG" width="375px" alt="footer">
@@ -269,8 +271,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit was lastig/Is niet gelukt:
   
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  door tijdsnood heb ik dit niet werkend kunnen maken, maar het had me wel een leuke toevoeging geweest.
+  <img src="readme-images/english" width="375px" alt="taalswitcher">
 </details>
 
 
