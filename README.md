@@ -266,13 +266,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <img src="readme-images/navgrid.JPG" width="375px" alt="header">
   <img src="readme-images/footergrid.JPG" width="375px" alt="footer">
+   <img src="readme-images/langereselector1.JPG" width="375px" alt="code">
+   <img src="readme-images/langereselector2.JPG" width="375px" alt="mediacode">
 
 
 
   ### Dit was lastig/Is niet gelukt:
   
   door tijdsnood heb ik dit niet werkend kunnen maken, maar het had me wel een leuke toevoeging geweest.
-  <img src="readme-images/english" width="375px" alt="taalswitcher">
+  <img src="readme-images/english.JPG" width="375px" alt="taalswitcher">
 </details>
 
 
