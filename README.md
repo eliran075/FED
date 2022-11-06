@@ -56,32 +56,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  De website is nog niet heel toegankelijk en vooral voor gerbuikers met een screenreader.
 
   #### Screenreader
-  Hier korte omschrijving:
-
-  Veel onderdelen op de site waren erg onduidelijk voor de screenreader. Zoals links naar bepaalde items werd alleen opgelezen als 'koppeling' waardoor het als       gebruiker niet echt duidelijk word waar die koppeling je heen brengt.
+  Veel onderdelen op de site waren erg onduidelijk voor de screenreader. Zoals links naar bepaalde items werd opgelezen als alleen 'koppeling' waardoor het als           gebruiker niet echt duidelijk word waar die koppeling je heen brengt.
   
   Hier een omschrijving van hoe het opgelost kan worden:
   alttext of ontzichtbare text bij de link of img
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving:
-  
   De website is prima te bedienen met alleen een toetsenbord of muis. je kan het items aan je winkelmandje toevoegen en het bestel process afronden.
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving:
-  
   Het maakt het proces wat lastiger en het duurt wat langer maar je kan gewoon hetzelfde doen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving:
-  
   In de meeste gevallen is de site nog prima leesbaar maar wanneer het te wazig word valt de tekst een beetje weg en kan je het lastig zien.
   
   Hier een omschrijving van hoe het opgelost kan worden:
-  
   Een fontslider waarmee de gebruiker de groote van het tekst kan vergroten/verkleinen.
   
 </details>
