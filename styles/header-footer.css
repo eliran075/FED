@@ -1,11 +1,3 @@
-
-*:focus{
-    outline: var(--color-text) solid .1em;
-    border-radius: .5em;
-    -webkit-tap-highlight-color: transparent;
-}
-
-
 header {
     display: flex;
     justify-content: space-between;
